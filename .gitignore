@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>北京折叠</title>
+</head>
+<h1>北京折叠</h1>
+<ul <!--这是导航-->
+    <li><a href="">导航链接一</a></li>
+    <li><a href="">导航链接二</a></li>
+    <li><a href="">导航链接三</a></li>
+    <li><a href="">导航链接四</a></li>
+</ul>
+<article><!--这是第一篇文章-->
+    <h2>北京折叠一</h2>
+    <h3>北京折叠一</h3>
+    <p>作者：郝景芳</p>
+    <p>清晨4:50，老刀穿过熙熙攘攘的步行街，去找彭蠡。</p>
+    <p>从垃圾站下班之后，老刀回家洗了个澡，换了衣服。白色衬衫和褐色裤子，这是他唯一一套体面衣服，衬衫袖口磨了边，他把袖子卷到胳膊肘。老刀四十八岁，没结婚，已经过了注意外表的年龄，又没人照顾起居，这一套衣服留着穿了很多年，每次穿一天，回家就脱了叠上。他在垃圾站上班，没必要穿得体面，偶尔参加谁家小孩的婚礼，才拿出来穿在身上。这一次他不想脏兮兮地见陌生人。他在垃圾站连续工作了五小时，很担心身上会有味道。</p>
+<p>步行街上挤满了刚刚下班的人。拥挤的男人女人围着小摊子挑土特产，大声讨价还价。食客围着塑料桌子，埋头在酸辣粉的热气腾腾中，饿虎扑食一般，白色蒸汽遮住了脸。<a href="http://jessica-hjf.blog.163.com/blog/static/278128102015240444791/">油炸的香味弥漫</a>。货摊上的酸枣和核桃堆成山，腊肉在头顶摇摆。这个点是全天最热闹的时间，基本都收工了，忙碌了几个小时的人们都赶过来吃一顿饱饭，人声鼎沸。</p>
+<img src="http://img.9553.com/uploadfile/2016/0825/20160825024849862.jpg" alt="北京折叠" style="height:200px;width:133px" >
+    <p>老刀艰难地穿过人群。端盘子的伙计一边喊着让让一边推开挡道的人，开出一条路来，老刀跟在后面。彭蠡家在小街深处。老刀上楼，彭蠡不在家。问邻居，邻居说他每天快到关门才回来，具体几点不清楚。</p>
+    <p>他回到楼门口等着。两旁狼吞虎咽的饥饿少年围绕着他。他认识其中两个，<a href="http://jessica-hjf.blog.163.com/blog/static/278128102015240444791/" target="_blank">原来在彭蠡家见过一两次</a>。少年每人面前摆着一盘炒面或炒粉，几个人分吃两个菜，盘子里一片狼藉，筷子扔在无望而锲而不舍地拨动，寻找辣椒丛中的肉星。老刀又下意识闻了闻小臂，不知道身上还有没有垃圾的腥味。周围的一切嘈杂而庸常，和每个清晨一样。</p>
+</article>
+<article>
+    <h2>北京折叠二</h2><!--这是第二篇文章-->
+    <h3>作者：郝景芳</h3>
+<p>大地的两侧重量并不均衡，为了平衡这种不均，第一空间的土地更厚，土壤里埋藏配重物质。人口和建筑的失衡用土地来换。第一空间居民也因而认为自身的底蕴更厚。</p>
+    <p>折叠城市分三层空间。大地的一面是第一空间，五百万人口，生存时间是从清晨六点到第二天清晨六点。<a href="http://jessica-hjf.blog.163.com/blog/static/278128102015240444791/" target="_blank">空间休眠</a>，大地翻转。翻转后的另一面是第二空间和第三空间。第二空间生活着两千五百万人口，从次日清晨六点到夜晚十点，第三空间生活着五千万人，从十点到清晨六点，然后回到第一空间。时间经过了精心规划和最优分配，小心翼翼隔离，五百万人享用二十四小时，七千五百万人享用另外二十四小时。</p>
+    <img src="http://img.9553.com/uploadfile/2016/0825/20160825024849862.jpg" alt="北京折叠" style="height:200px;width:133px" >
+    <ul>
+        <li>列表项目一</li>
+        <li>列表项目二</li>
+        <li>列表项目三</li>
+        <li>列表项目四</li>
+
+    </ul>
+</article>
+<h2>图片</h2>
+<figure>
+    <figcaption>北京折叠</figcaption>
+    <img src="http://img.9553.com/uploadfile/2016/0825/20160825024849862.jpg" alt="北京折叠" style="height:200px;width:133px" >
+    <figcaption>北京折叠</figcaption>
+    <img src="http://img.9553.com/uploadfile/2016/0825/20160825024849862.jpg" alt="北京折叠" style="height:200px;width:133px" >
+    <figcaption>北京折叠</figcaption>
+    <img src="http://img.9553.com/uploadfile/2016/0825/20160825024849862.jpg" alt="北京折叠" style="height:200px;width:133px" >
+    <figcaption>北京折叠</figcaption>
+    <img src="http://img.9553.com/uploadfile/2016/0825/20160825024849862.jpg" alt="北京折叠" style="height:200px;width:133px" >
+    <figcaption>北京折叠</figcaption>
+    <img src="http://img.9553.com/uploadfile/2016/0825/20160825024849862.jpg" alt="北京折叠" style="height:200px;width:133px" >
+    <figcaption>北京折叠</figcaption>
+    <img src="http://img.9553.com/uploadfile/2016/0825/20160825024849862.jpg" alt="北京折叠" style="height:200px;width:133px" >
+    <figcaption>北京折叠</figcaption>
+    <img src="http://img.9553.com/uploadfile/2016/0825/20160825024849862.jpg" alt="北京折叠" style="height:200px;width:133px" >
+    <figcaption>北京折叠</figcaption>
+    <img src="http://img.9553.com/uploadfile/2016/0825/20160825024849862.jpg" alt="北京折叠" style="height:200px;width:133px" >
+    <figcaption>北京折叠</figcaption>
+    <img src="http://img.9553.com/uploadfile/2016/0825/20160825024849862.jpg" alt="北京折叠" style="height:200px;width:133px" >
+    <figcaption>北京折叠</figcaption>
+    <img src="http://img.9553.com/uploadfile/2016/0825/20160825024849862.jpg" alt="北京折叠" style="height:200px;width:133px" >
+    <figcaption>北京折叠</figcaption>
+    <img src="http://img.9553.com/uploadfile/2016/0825/20160825024849862.jpg" alt="北京折叠" style="height:200px;width:133px" >
+</figure>
+<article>
+    <h2>北京折叠三</h2><!--这是第三部分文章-->
+    <h3>第三部分</h3>
+    <p><span>文章作者</span>
+        <span>文章发表时间</span>
+    </p>
+    <ol>
+        <li>第一部分</li>
+        <li>第二部分</li>
+        <li>第三部分</li>
+    </ol>
+    <p>下面是一个表格</p><!--这是一个表格-->
+    <table border="1">
+        <tr><th>名称</th><th>金额</th><th>动作</th></tr>
+        </thead>
+        <tbody>
+        <tr><td>prize1</td><td>100</td><td><a href="#"></a><a href="">操作</a></td></tr>
+        <tr><td>prize2</td><td>600</td><td><a href="#"></a><a href="">操作</a></td></tr>
+        <tr><td>prize3</td><td>300</td><td><a href="#"></a><a href="">操作</a></td></tr>
+        <tr><td>合计</td><td colspan="2">1000</td></tr>
+        </tbody>
+    </table>
+    </table>
+</article>
+<article>
+    <aside>
+        <h2>这里以后是个侧栏</h2>
+        <h2>侧栏注册窗口标题</h2>
+        <form action="" method="post">
+            <label>请输入邮箱地址：<input type="text" name="email"></label>
+            <br/><span>邮箱地址请按格式输入</span><br/>
+            <label>请输入密码：<input type="password" name="pass"></label>
+            <label>请再次输入密码：<input type="password" name="pwd"></label>
+            <br/><span>密码为6-16位英文数字</span><br/>
+            <span>性别：</span>
+            <label><input type="radio" name="gender" value="m">男</label>
+            <label><input type="radio" name="gender" value="f" checked>女</label>
+            <br/>
+            <label>城市：
+                <select name="city">
+                    <option value="beijing" selected>北京</option>
+                    <option value="guangzhou">广州</option>
+                </select>
+            </label>
+            <br/>
+            <span>爱好：</span>
+            <label><input type="checkbox" name="interest" value="sport">运动</label>
+            <label><input type="checkbox" name="interest" value="art">艺术</label>
+            <label><input type="checkbox" name="interest" value="sic">科学</label>
+            <br/><label>个人描述：<textarea  placeholder="请用一句话描述自己" rows="5" cols="20"></textarea><br/>
+        </label>
+            <button type="submit">确认提交</button>
+        </form>
+    </aside>
+</article>
+</body>
+</html>
